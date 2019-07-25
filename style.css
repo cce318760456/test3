@@ -1,0 +1,19 @@
+div {
+    display: block;
+    margin-bottom: 20px;
+    height: 100px;
+    /* background: blue; */
+}
+
+ul {
+    background: #96b97d;
+    color: #fff;
+
+}
+
+ul a {
+    color: #fff;
+}
+#logo_img {
+    width: 258px;
+}
